@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: 
 SEOTitle: 马铃薯的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 1412453794@qq.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/chen-24/Chen-24.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: "终极的目标是被人遗忘。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
